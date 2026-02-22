@@ -198,6 +198,20 @@ After execution:
 Both are automatically generated and downloadable (Colab supported).
 
 ---
+## 🔍 Recommended Validation Step
+
+After cleaning, it is best practice to:
+
+- Review key identifier columns
+- Confirm datatypes align with business expectations
+- Validate date formats
+- Ensure duplicate strategy matches stakeholder requirements
+
+The pipeline guarantees structural integrity.  
+Business validation remains a domain responsibility.
+
+---
+
 
 ## 🎯 Why This Project Matters
 
